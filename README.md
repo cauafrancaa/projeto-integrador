@@ -2,11 +2,11 @@
 # Projeto: Aplicativo de Controle de Kits e Objetos do Fablab (SENAI)
 
 ## Integrantes
-Benício Guimarães
-Cauã França
-Gustavo Justen
-João Bernardo
-Miguel Campião
+- Benício Guimarães
+- Cauã França
+- Gustavo Justen
+- João Bernardo
+- Miguel Campião
 
 ## Descrição
 O projeto consiste no desenvolvimento de um **aplicativo para controle de kits e objetos do Fablab (SENAI)**. A proposta é criar uma **interface interativa e prática**, facilitando a organização, o acompanhamento e o gerenciamento dos equipamentos disponíveis no laboratório.
