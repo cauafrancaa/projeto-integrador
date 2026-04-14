@@ -5,7 +5,6 @@ import org.springframework.stereotype.Repository;
 
 import com.senai.pi.models.Categoria;
 
-
 @Repository
 public interface CategoriaRepository extends JpaRepository<Categoria, Integer> {
     
