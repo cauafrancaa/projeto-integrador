@@ -5,7 +5,6 @@ import org.springframework.stereotype.Repository;
 
 import com.senai.pi.models.Danos;
 
-
 @Repository
 public interface DanosRepository extends JpaRepository<Danos, Integer> {
     
